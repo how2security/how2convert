@@ -76,3 +76,5 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Other itens: Copyright (c) 2017, How2Security All rights reserved.
+
+More details: <http://www.how2security.com.br>
