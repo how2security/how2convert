@@ -11,7 +11,7 @@ Espero que gostem.
 USO
 ===
 
-# ./how2encode.py -h
+./how2encode.py -h
 usage: how2encode.py [-t type_encode] [--str="data"]
 
 optional arguments:
@@ -24,7 +24,7 @@ optional arguments:
   --str TXT             The String Encode/Decode
   --version             show program's version number and exit
 
-# ./how2encode.py -t full --str "<Well/>"
+./how2encode.py -t full --str "<Well/>"
 
 [+] HEXA Standard: 0x3c0x570x650x6c0x6c0x2f0x3e
 [+] HEXA Straigth: 0x3c57656c6c2f3e
