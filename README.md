@@ -1,6 +1,6 @@
 # how2convert #
 
-Estes scripts foram criados inspirados pela palestra do Felipe Balestra, em sua palestra no ROADSEC com o título: "Dos ataques avançados ditos pela mídia à realidade dos PenTests" e da ferramenta OWASP Project - CAL9000 de Chris Loomis.
+Estes scripts foram criados inspirados na palestra do Felipe Balestra, em sua palestra no ROADSEC com o título: "Dos ataques avançados ditos pela mídia à realidade dos PenTests" e da ferramenta OWASP Project - CAL9000 de Chris Loomis.
 
 Eles têm a finalidade de Encode/Decode de strings para ofuscar suas entradas em um processo de auditoria de teste de intrusão. Ou descobrir qual o encode utilizado em uma aplicação.
 
