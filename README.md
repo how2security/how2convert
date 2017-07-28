@@ -8,8 +8,7 @@ Aproveito para pedir desculpas pela deselegância do código, já que estou me a
 
 Espero que gostem.
 
-# USO #
- ===
+# Uso #
 
     ./how2encode.py -h
         usage: how2encode.py [-t type_encode] [--str="data"]
@@ -53,3 +52,24 @@ Espero que gostem.
     [+] Base16: 3C57656C6C2F3E
     [+] Base32: HRLWK3DMF47A====
     [+] Base64: PFdlbGwvPg==
+
+# Licença #
+
+Author: Wellington Silva a.k.a. Well
+Date: July 2017
+Version: 1.0B
+Licence: GNU3
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Other itens: Copyright (c) 2017, How2Security All rights reserved.
