@@ -11,6 +11,7 @@ Espero que gostem.
 USO
 ===
 
+<code>
 ./how2encode.py -h
 usage: how2encode.py [-t type_encode] [--str="data"]
 
@@ -54,4 +55,4 @@ optional arguments:
 [+] Base32: HRLWK3DMF47A====
 [+] Base64: PFdlbGwvPg==
 
-#
+</code>
