@@ -9,7 +9,7 @@ Purpose: Insert color in other script.
 Description: Script Based on script Responder by Laurent Gaffie - Trustwave Holdings - posted at:
              <https://github.com/SpiderLabs/Responder>
 Version: 1.0B
-Licence: GNU3
+Licence: GPLv3
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
