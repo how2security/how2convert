@@ -9,7 +9,7 @@ Purpose: Class Encode/Decode with Unicode URL.
 Description: Script Based on script CAL9000 by Chris Loomis from OWASP Project, posted at:
                      <https://www.owasp.org/index.php/Category:OWASP_CAL9000_Project>
 Version: 1.0B
-Licence: GNU3
+Licence: GPLv3
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
