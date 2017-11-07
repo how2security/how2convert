@@ -4,8 +4,6 @@ Estes scripts foram criados inspirados na palestra do Felipe Balestra, em sua pa
 
 Eles têm a finalidade de Encode/Decode de strings para ofuscar suas entradas em um processo de auditoria de teste de intrusão. Ou descobrir qual o encode utilizado em uma aplicação.
 
-Aproveito para pedir desculpas pela deselegância do código, já que estou me aventurando nesta linguagem que estou apaixonado, porém ainda na fase do namoro.
-
 Espero que gostem.
 
 # Uso #
